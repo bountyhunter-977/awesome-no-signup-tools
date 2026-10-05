@@ -19,6 +19,7 @@ Know a tool that fits? See the contributing guidelines (linked in the badge abov
 - [Text & Writing](#text--writing)
 
 ## Utilities
+- [uTubeThumbnailDownloader](utubethumbnaildownloader.netlify.app) — Free YouTube thumbnail downloader, grabs HD, SD and every size with no signup.
 
 - [CharCount](https://charcount.app/) - Free character, word, and text counter with support for 11 languages, no signup, client-side processing.
 - [TinyURL](https://tinyurl.com/) - Shortens a long URL into a short link, no signup required for a single link.
